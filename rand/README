@@ -1,9 +1,8 @@
 Wait - Maxrand
-<br />
-Para ejecutar correctamente seguir este orden: <br />
-1. gcc -c maxrand.c <br />
-2. ar rc libmaxrand.a maxrand.o <br />
-3. gcc -L . rand_wait.c -o randwait -lmaxrand <br />
+Para ejecutar correctamente seguir este orden: 
+1. gcc -c maxrand.c 
+2. ar rc libmaxrand.a maxrand.o 
+3. gcc -L . rand_wait.c -o randwait -lmaxrand 
 
-Y para ejecutar: <br />
-./randwait <br />
+Y para ejecutar: 
+./randwait 
