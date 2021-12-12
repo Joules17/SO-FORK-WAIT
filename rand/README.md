@@ -12,5 +12,5 @@ _Y para ejecutar:_
 ```
 
 ## Nombres ##
-_Sharon Zuleta Vanegas 1742139-2711_ <br/>
-_Julian Andres Salamanca Tellez 1841654-3743_ <br/>
+🤓 _Sharon Zuleta Vanegas 1742139-2711_ <br/>
+🤓 _Julian Andres Salamanca Tellez 1841654-3743_ <br/>
